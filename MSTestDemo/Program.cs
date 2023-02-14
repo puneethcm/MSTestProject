@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System;
+namespace MSTestDemo;
+public class Program
 {
     private static void Main(string[] args)
     {
